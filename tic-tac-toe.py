@@ -5,7 +5,7 @@ root = Tk()
 root.title('Крестики-нолики')
 root.minsize(200, 200)
 
-
+# Логика игры крестики-нолики
 class TicTacToe:
     X = 1
     O = 2
